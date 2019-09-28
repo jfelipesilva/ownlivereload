@@ -1,0 +1,17 @@
+{
+  "name": "ownlivereload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.0.1",
+    "log-timestamp": "^0.3.0",
+    "ws": "^7.0.0"
+  }
+}
